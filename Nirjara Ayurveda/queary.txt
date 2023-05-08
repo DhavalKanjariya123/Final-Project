@@ -1,0 +1,7 @@
+1_https://www.nakshatraayurvedam.com
+2_https://www.nagarjunaayurveda.com/
+3_http://www.globalinstituteofayurveda.com/
+
+changes
+1_favicon
+2_slider
