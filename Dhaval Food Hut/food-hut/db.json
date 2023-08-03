@@ -1,0 +1,202 @@
+{
+  "inquiry": [
+    {
+      "name": "Dhaval Kanjariya",
+      "mobile": "9825166515",
+      "email": "dhaval@gmail.com",
+      "cityname": "Rajkot",
+      "message": "Please send a detail of an offers.",
+      "id": 1
+    },
+    {
+      "name": "Hetasvi Kanjariya",
+      "mobile": "9825166515",
+      "email": "hetasvi@gmail.com",
+      "cityname": "Junagadh",
+      "message": "Please send details of today\"s menu.",
+      "id": 2
+    },
+    {
+      "name": "Prit Ladani",
+      "mobile": "9099525868",
+      "email": "prit@gmail.com",
+      "cityname": "Upleta",
+      "message": "Please share a detail",
+      "id": 3
+    },
+    {
+      "name": "Vinay Patel",
+      "mobile": "9825166515",
+      "email": "vinay@gmail.com",
+      "cityname": "Ahmedabad",
+      "message": "Please send me a detail Please send me a detail Please send me a detail",
+      "id": 4
+    },
+    {
+      "name": "Gautam Markana",
+      "mobile": "9313463866",
+      "email": "gautam@gmail.com",
+      "cityname": "Rajkot",
+      "message": "Please share a detail.",
+      "id": 5
+    },
+    {
+      "name": "Shivam Dalsaniya",
+      "mobile": "7567968294",
+      "email": "shivam@gmail.com",
+      "cityname": "Bhayavadar",
+      "message": "Please send a detail.",
+      "id": 6
+    },
+    {
+      "name": "Hiten Vora",
+      "mobile": "9687431212",
+      "email": "hiten@gmail.com",
+      "cityname": "Jasdan",
+      "message": "Please send a detail",
+      "id": 7
+    },
+    {
+      "name": "Om Patel",
+      "mobile": "7383456992",
+      "email": "om@gmail.com",
+      "cityname": "Rajkot",
+      "message": "Please share",
+      "id": 8
+    },
+    {
+      "name": "Jahangir Bavra",
+      "mobile": "9825166515",
+      "email": "dhaval@gmail.com",
+      "cityname": "Morbi",
+      "message": "Please share a Detail.",
+      "id": 9
+    }
+  ],
+  "addmenudetail": [
+    {
+      "image": "https://img-global.cpcdn.com/recipes/3b9c6d673a81d0e8/1200x630cq70/photo.jpg",
+      "subheading": "Reiciendis Laborum ",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa provident illum officiis fugit laudantium voluptatem sit iste delectus qui ex.",
+      "category": "food",
+      "quentity": "1",
+      "price": "500",
+      "id": 3
+    },
+    {
+      "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/chinese-bhel-is-a-fast-food-item-of-northeast-indi-EYH3AYX_1600.jpg",
+      "subheading": "Reiciendis Laborum ",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa provident illum officiis fugit laudantium voluptatem sit iste delectus qui ex.",
+      "category": "food",
+      "quentity": "1",
+      "price": "600",
+      "id": 4
+    }
+  ],
+  "tablebooking": [
+    {
+      "tablename": "Dhaval Kanjariya",
+      "tabledate": "2023-07-11",
+      "tabletime": "20:00",
+      "tableperson": "5",
+      "tablenumber": "9825166515",
+      "id": 1
+    },
+    {
+      "tablename": "Shivam Dalsaniya",
+      "tabledate": "2023-07-12",
+      "tabletime": "21:00",
+      "tableperson": "3",
+      "tablenumber": "7567968294",
+      "id": 2
+    },
+    {
+      "tablename": "Jahagir Bavra",
+      "tabledate": "2023-07-24",
+      "tabletime": "10:00",
+      "tableperson": "1",
+      "tablenumber": "9825166515",
+      "id": 3
+    },
+    {
+      "tablename": "Hetasvi Kanjariya",
+      "tabledate": "2023-07-26",
+      "tabletime": "21:00",
+      "tableperson": "5",
+      "tablenumber": "9825166515",
+      "id": 4
+    },
+    {
+      "tablename": "Vishal Patel",
+      "tabledate": "2023-07-28",
+      "tabletime": "09:00",
+      "tableperson": "8",
+      "tablenumber": "9825166515",
+      "id": 5
+    },
+    {
+      "tablename": "Shiva Parmar",
+      "tabledate": "2023-07-28",
+      "tabletime": "08:00",
+      "tableperson": "3",
+      "tablenumber": "9825166515",
+      "id": 6
+    },
+    {
+      "tablename": "Mehul Patel",
+      "tabledate": "2023-08-03",
+      "tabletime": "20:00",
+      "tableperson": "10",
+      "tablenumber": "9825166515",
+      "id": 7
+    },
+    {
+      "tablename": "Aakash Patel",
+      "tabledate": "2023-08-05",
+      "tabletime": "12:00",
+      "tableperson": "7",
+      "tablenumber": "9898001553",
+      "id": 8
+    }
+  ],
+  "chart": [
+    {
+      "name": "Dhaval Kanjariya",
+      "datemenu": "2023-07-11",
+      "quantity": "2",
+      "id": 1
+    },
+    {
+      "name": "Hetasvi Kanjariya",
+      "datemenu": "2023-07-11",
+      "quantity": "4",
+      "id": 2
+    },
+    {
+      "name": "Prit Kanjariya",
+      "datemenu": "2023-07-11",
+      "quantity": "5",
+      "id": 2
+    }
+  ],
+  "cart": [
+    {
+      "image": "https://img-global.cpcdn.com/recipes/3b9c6d673a81d0e8/1200x630cq70/photo.jpg",
+      "subheading": "Reiciendis Laborum ",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa provident illum officiis fugit laudantium voluptatem sit iste delectus qui ex.",
+      "category": "food",
+      "quentity": "1",
+      "price": "500",
+      "id": 3
+    },
+    {
+      "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/chinese-bhel-is-a-fast-food-item-of-northeast-indi-EYH3AYX_1600.jpg",
+      "subheading": "Reiciendis Laborum ",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa provident illum officiis fugit laudantium voluptatem sit iste delectus qui ex.",
+      "category": "food",
+      "quentity": "1",
+      "price": "600",
+      "id": 4
+    }
+  ]
+}

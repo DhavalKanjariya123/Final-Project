@@ -1,0 +1,57 @@
+{
+  "student": [
+    {
+      "stuname": "Hetasvi Kanjariya",
+      "studate": "2023-07-08",
+      "attend": "present",
+      "id": 1
+    },
+    {
+      "stuname": "Dhaval Kanjariya",
+      "studate": "2023-07-08",
+      "attend": "Present",
+      "id": 2
+    },
+    {
+      "stuname": "Hiten Vora",
+      "studate": "2023-07-08",
+      "attend": "Present",
+      "id": 3
+    },
+    {
+      "stuname": "Gaurang Bhut",
+      "studate": "2023-07-08",
+      "attend": "Absent",
+      "id": 4
+    },
+    {
+      "stuname": "Prit Ladani",
+      "studate": "2023-07-08",
+      "attend": "Present",
+      "id": 5
+    },
+    {
+      "stuname": "Vishal Patel",
+      "studate": "2023-08-03",
+      "attend": "Present",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
